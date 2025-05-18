@@ -3,7 +3,7 @@
 <img width="1436" alt="Screenshot 2025-05-18 at 7 22 32 PM" src="https://github.com/user-attachments/assets/ffdcc649-f7c5-4aff-959f-93c68727daf7" />
 
 
-A full-stack Todo application built by following https://www.youtube.com/watch?v=9OoKXOq7ENo
+A full-stack Todo application built by following tutorial
 
 ## ✨ Features
 - **Full CRUD Operations**
